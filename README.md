@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi , I'm Priya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+about+Computer+Vision;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things!&center=true&width=500&height=50"></a> <br>
 <img width="200" src="https://github.com/priyaasuresh/priyaasuresh/blob/main/1.png">
 </p>
-<h4 align="center">I am a Senior at PES University pursuing B.Tech in Computer Science and Engineering. I am a passionate, enthusiastic person who loves to take up new challenges and learn new skills. I enjoy meeting new people and exchanging ideas.</h4>
+<h4 align="center">Welcome to my github page! <br>I'm Priya, a Senior at PES University pursuing B.Tech in Computer Science and Engineering. I am passionate about Deep Learning and Artificial Intelligence and love taking up new challenges. Go check out my work on some exciting projects in my repository</h4>
 <br>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Priyaasuresh.Priyaasuresh)
