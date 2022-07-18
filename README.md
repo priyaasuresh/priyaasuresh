@@ -12,14 +12,11 @@
   
  ## 📊 Github Stats 
 
-<a href="https://github.com/priyaasuresh"><img alt="S S Priya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyaasuresh&custom_title=Priya's%20Contribution%20Graph&theme=react-dark" /></a>
-
-| ![S S Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priyaasuresh&show_icons=true&theme=tokyonight) | ![S S Priya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyaasuresh&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaasuresh&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=priyaasuresh&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+![S S Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priyaasuresh&show_icons=true&theme=tokyonight) 
+![S S Priya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyaasuresh&theme=tokyonight) 
 
 <br>
-<h2> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px"> </h2>
+<h2> Let's Connect  </h2>
 <a href="https://www.linkedin.com/in/priyaasuresh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://github.com/priyaasuresh"><img alt="Gmail" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;
 <a href="mailto:sspriya147@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
