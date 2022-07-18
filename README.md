@@ -12,9 +12,9 @@
   
  ## 📊 Github Stats 
 
-![S S Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priyaasuresh&show_icons=true&theme=tokyonight) 
-![S S Priya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyaasuresh&theme=tokyonight) 
-
+| ![S S Priya's github stats](https://github-readme-stats.vercel.app/api?username=Priyaasuresh&show_icons=true&theme=tokyonight) | ![S S Priya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyaasuresh&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaasuresh&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=priyaasuresh&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <br>
 <h2> Let's Connect  </h2>
 <a href="https://www.linkedin.com/in/priyaasuresh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
